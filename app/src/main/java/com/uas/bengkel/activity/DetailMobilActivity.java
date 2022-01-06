@@ -43,7 +43,7 @@ public class DetailMobilActivity extends AppCompatActivity {
         }
 
         if (sMerk.equals("Bengkel ABC")) {
-            sGambar = "bengkel";
+            sGambar = "alphard";
         } else if (sMerk.equals("Bengkel Mantap")) {
             sGambar = "bengkel";
         } else if (sMerk.equals("Bengkel Hebat")) {

@@ -6,63 +6,63 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml
+8-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml
+9-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:5:5-27:19
+11-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
-12-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:11:9-40
+20-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:11:9-40
 21        <activity android:name="com.uas.bengkel.activity.LoginActivity" >
-21-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:13:9-19:20
-21-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:13:19-72
+21-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:13:9-19:20
+21-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:13:19-72
 22            <intent-filter>
-22-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:14:13-18:29
+22-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:14:13-18:29
 23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:15:17-69
-23-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:15:25-66
+23-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:15:25-66
 24
 25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:17:17-77
-25-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:17:27-74
+25-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:17:27-74
 26            </intent-filter>
 27        </activity>
 28        <activity android:name="com.uas.bengkel.activity.DaftarMobilActivity" />
-28-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:20:9-81
-28-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:20:19-78
+28-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:9-81
+28-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:19-78
 29        <activity android:name="com.uas.bengkel.activity.PenyewaActivity" />
-29-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:21:9-77
-29-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:21:19-74
+29-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:9-77
+29-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:19-74
 30        <activity android:name="com.uas.bengkel.activity.SewaMobilActivity" />
-30-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:22:9-79
-30-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:22:19-76
+30-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:9-79
+30-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:19-76
 31        <activity android:name="com.uas.bengkel.activity.DetailMobilActivity" />
-31-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:23:9-81
-31-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:23:19-78
+31-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:9-81
+31-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:19-78
 32        <activity android:name="com.uas.bengkel.activity.DetailPenyewaActivity" />
-32-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:24:9-83
-32-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:24:19-80
+32-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:9-83
+32-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:19-80
 33        <activity android:name="com.uas.bengkel.activity.RegisterActivity" />
-33-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:25:9-77
-33-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:25:19-75
+33-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:9-77
+33-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:19-75
 34        <activity android:name="com.uas.bengkel.activity.MainActivity" />
-34-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:26:9-73
-34-->C:\Users\Gunara\Downloads\Bengkel\app\src\main\AndroidManifest.xml:26:19-71
+34-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:9-73
+34-->C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:19-71
 35    </application>
 36
 37</manifest>
