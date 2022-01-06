@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="com.uas.bengkel.activity.LoginActivity"
+    android:background="@drawable/bg_home_wave">
+
+    <!--    Menampilkan Logo App-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="243dp"
+        android:src="@drawable/logo" />
+
+    <!--    Buat Input Username-->
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:layout_marginTop="30dp"
+        android:inputType="text"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:backgroundTint="@android:color/white"/>
+
+    <!--    Buat Input Password-->
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:layout_marginTop="25dp"
+        android:inputType="textPassword"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:backgroundTint="@android:color/white"/>
+
+    <!-- Membuat Button Login   -->
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="37dp"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/white"
+        android:text="Login"
+        android:textColor="@color/colorPrimary"
+        android:theme="@style/AppTheme" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="or"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="10dp"/>
+
+    <!--    Buat Text Register, untuk ketika di klik akan menuju form register-->
+    <TextView
+        android:id="@+id/textRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="REGISTER"
+        android:textColor="@android:color/white"
+        android:textSize="16dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"/>
+</LinearLayout>
