@@ -42,12 +42,14 @@ public class DetailMobilActivity extends AppCompatActivity {
             sHarga = cursor.getString(1);
         }
 
-        if (sMerk.equals("Bengkel ABC")) {
-            sGambar = "alphard";
-        } else if (sMerk.equals("Bengkel Mantap")) {
-            sGambar = "bengkel";
-        } else if (sMerk.equals("Bengkel Hebat")) {
-            sGambar = "bengkel";
+        if (sMerk.equals("Bengkel Mandiri")) {
+            sGambar = "mandiri";
+        } else if (sMerk.equals("Bengkel Setia")) {
+            sGambar = "setia";
+        } else if (sMerk.equals("Bengkel Sejati")) {
+            sGambar = "sejati";
+        } else if (sMerk.equals("Bengkel Sentosa")) {
+            sGambar = "sentosa";
         }
 
         ImageView ivGambar = findViewById(R.id.ivMobil);

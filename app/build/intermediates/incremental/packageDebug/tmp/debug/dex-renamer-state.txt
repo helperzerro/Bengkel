@@ -1,4 +1,4 @@
-#Fri Jan 07 20:36:06 ICT 2022
+#Fri Jan 07 20:44:30 ICT 2022
 base.1=D\:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
 base.0=D\:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
