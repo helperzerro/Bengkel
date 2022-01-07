@@ -17,10 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.uas.bengkel.activity.DaftarMobilActivity" />
+        <activity android:name="com.uas.bengkel.activity.DaftarBengkelActivity" />
         <activity android:name="com.uas.bengkel.activity.PenyewaActivity" />
-        <activity android:name="com.uas.bengkel.activity.SewaMobilActivity" />
-        <activity android:name="com.uas.bengkel.activity.DetailMobilActivity" />
+        <activity android:name="com.uas.bengkel.activity.SewaBengkelActivity" />
+        <activity android:name="com.uas.bengkel.activity.DetailBengkelActivity" />
         <activity android:name="com.uas.bengkel.activity.DetailPenyewaActivity" />
         <activity android:name="com.uas.bengkel.activity.RegisterActivity"/>
         <activity android:name="com.uas.bengkel.activity.MainActivity"/>

@@ -21,7 +21,7 @@ import com.uas.bengkel.helper.DataHelper;
 
 import java.util.List;
 
-public class SewaMobilActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
+public class SewaBengkelActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
 
     EditText nama, alamat, no_hp, lama;
     RadioGroup promo;
@@ -65,7 +65,7 @@ public class SewaMobilActivity extends AppCompatActivity implements AdapterView.
                 sNo = no_hp.getText().toString();
                 sLama = lama.getText().toString();
                 if (sNama.isEmpty() || sAlamat.isEmpty() || sNo.isEmpty() || sLama.isEmpty()) {
-                    Toast.makeText(SewaMobilActivity.this, "(*) tidak boleh kosong", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SewaBengkelActivity.this, "(*) tidak boleh kosong", Toast.LENGTH_SHORT).show();
                     return;
                 }
 
@@ -122,7 +122,7 @@ public class SewaMobilActivity extends AppCompatActivity implements AdapterView.
 
     private void setupToolbar() {
         Toolbar toolbar = findViewById(R.id.tbSewaMobl);
-        toolbar.setTitle("Sewa Mobil");
+        toolbar.setTitle("Sewa Bengkel");
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }

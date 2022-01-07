@@ -1062,6 +1062,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable innova
 drawable logo
+drawable mandiri
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1078,6 +1079,9 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pregio
+drawable sejati
+drawable sentosa
+drawable setia
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable xenia
@@ -1438,11 +1442,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_detail_mobil
+layout activity_bengkel
+layout activity_detail_bengkel
 layout activity_detail_penyewa
 layout activity_login
 layout activity_main
-layout activity_mobil
 layout activity_penyewa
 layout activity_register
 layout activity_sewa

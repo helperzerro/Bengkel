@@ -47,18 +47,23 @@ public class DataHelper extends SQLiteOpenHelper {
                 "");
 
         db.execSQL("insert into mobil values (" +
-                "'Bengkel ABC'," +
-                "400000" +
+                "'Bengkel Mandiri'," +
+                "50000" +
                 ");" +
                 "");
         db.execSQL("insert into mobil values (" +
-                "'Bengkel Mantap'," +
-                "400000" +
+                "'Bengkel Setia'," +
+                "35000" +
                 ");" +
                 "");
         db.execSQL("insert into mobil values (" +
-                "'Bengkel Hebat'," +
-                "400000" +
+                "'Bengkel Sejati'," +
+                "40000" +
+                ");" +
+                "");
+        db.execSQL("insert into mobil values (" +
+                "'Bengkel Sentosa'," +
+                "30000" +
                 ");" +
                 "");
     }

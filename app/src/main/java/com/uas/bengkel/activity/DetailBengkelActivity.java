@@ -15,7 +15,7 @@ import androidx.appcompat.widget.Toolbar;
 import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
-public class DetailMobilActivity extends AppCompatActivity {
+public class DetailBengkelActivity extends AppCompatActivity {
 
     protected Cursor cursor;
     String sMerk, sHarga, sGambar;
@@ -25,7 +25,7 @@ public class DetailMobilActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_mobil);
+        setContentView(R.layout.activity_detail_bengkel);
 
         Bundle terima = getIntent().getExtras();
 
@@ -42,12 +42,14 @@ public class DetailMobilActivity extends AppCompatActivity {
             sHarga = cursor.getString(1);
         }
 
-        if (sMerk.equals("Bengkel ABC")) {
-            sGambar = "alphard";
-        } else if (sMerk.equals("Bengkel Mantap")) {
-            sGambar = "bengkel";
-        } else if (sMerk.equals("Bengkel Hebat")) {
-            sGambar = "bengkel";
+        if (sMerk.equals("Bengkel Mandiri")) {
+            sGambar = "mandiri";
+        } else if (sMerk.equals("Bengkel Setia")) {
+            sGambar = "setia";
+        } else if (sMerk.equals("Bengkel Sejati")) {
+            sGambar = "sejati";
+        } else if (sMerk.equals("Bengkel Sentosa")) {
+            sGambar = "sentosa";
         }
 
         ImageView ivGambar = findViewById(R.id.ivMobil);

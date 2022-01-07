@@ -53,8 +53,11 @@ public class LoginActivity extends AppCompatActivity {
                     // kondisi jika sesuai
                     if(checkuserpass==true){
                         // maka akan dilakukan perpindahan ke From Login dengan memanfaatkan intent
+                        // yang diserta dengan String dari nama dari user yang login
                         Toast.makeText(LoginActivity.this, "Sign in successfull", Toast.LENGTH_SHORT).show();
                         Intent intent  = new Intent(getApplicationContext(), MainActivity.class);
+                        String name = username.getText().toString();
+                        intent.putExtra("name", name);
                         startActivity(intent);
                     }else{
                         // Kondisi jika username dan password salah
