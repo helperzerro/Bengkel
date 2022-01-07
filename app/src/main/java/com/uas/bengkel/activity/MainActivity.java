@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         informasi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, DaftarMobilActivity.class);
+                Intent i = new Intent(MainActivity.this, DaftarBengkelActivity.class);
                 startActivity(i);
             }
         });

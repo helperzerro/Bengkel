@@ -16,6 +16,9 @@ androidx/transition/R.java
  androidx.transition.R$styleable
 androidx/print/R.java
  androidx.print.R
+com/uas/bengkel/activity/DaftarBengkelActivity.java
+ com.uas.bengkel.activity.DaftarBengkelActivity
+ com.uas.bengkel.activity.DaftarBengkelActivity$1
 androidx/cursoradapter/R.java
  androidx.cursoradapter.R
 androidx/vectordrawable/R.java
@@ -32,8 +35,6 @@ androidx/vectordrawable/R.java
  androidx.vectordrawable.R$styleable
 androidx/lifecycle/livedata/core/R.java
  androidx.lifecycle.livedata.core.R
-com/uas/bengkel/activity/DetailMobilActivity.java
- com.uas.bengkel.activity.DetailMobilActivity
 androidx/cardview/R.java
  androidx.cardview.R
  androidx.cardview.R$attr
@@ -124,9 +125,6 @@ androidx/fragment/R.java
  androidx.fragment.R$string
  androidx.fragment.R$style
  androidx.fragment.R$styleable
-com/uas/bengkel/activity/DaftarMobilActivity.java
- com.uas.bengkel.activity.DaftarMobilActivity
- com.uas.bengkel.activity.DaftarMobilActivity$1
 androidx/savedstate/R.java
  androidx.savedstate.R
 androidx/customview/R.java
@@ -303,22 +301,8 @@ androidx/viewpager/R.java
  androidx.viewpager.R$styleable
 androidx/localbroadcastmanager/R.java
  androidx.localbroadcastmanager.R
-com/uas/bengkel/activity/SewaMobilActivity.java
- com.uas.bengkel.activity.SewaMobilActivity
- com.uas.bengkel.activity.SewaMobilActivity$1
-com/uas/bengkel/helper/DBHelper.java
- com.uas.bengkel.helper.DBHelper
-com/uas/bengkel/activity/MainActivity.java
- com.uas.bengkel.activity.MainActivity
- com.uas.bengkel.activity.MainActivity$1
- com.uas.bengkel.activity.MainActivity$2
-androidx/lifecycle/viewmodel/R.java
- androidx.lifecycle.viewmodel.R
-com/uas/bengkel/activity/PenyewaActivity.java
- com.uas.bengkel.activity.PenyewaActivity
- com.uas.bengkel.activity.PenyewaActivity$1
- com.uas.bengkel.activity.PenyewaActivity$2
- com.uas.bengkel.activity.PenyewaActivity$2$1
+com/uas/bengkel/activity/DetailBengkelActivity.java
+ com.uas.bengkel.activity.DetailBengkelActivity
 androidx/vectordrawable/animated/R.java
  androidx.vectordrawable.animated.R
  androidx.vectordrawable.animated.R$attr
@@ -331,3 +315,19 @@ androidx/vectordrawable/animated/R.java
  androidx.vectordrawable.animated.R$string
  androidx.vectordrawable.animated.R$style
  androidx.vectordrawable.animated.R$styleable
+com/uas/bengkel/helper/DBHelper.java
+ com.uas.bengkel.helper.DBHelper
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+com/uas/bengkel/activity/MainActivity.java
+ com.uas.bengkel.activity.MainActivity
+ com.uas.bengkel.activity.MainActivity$1
+ com.uas.bengkel.activity.MainActivity$2
+com/uas/bengkel/activity/SewaBengkelActivity.java
+ com.uas.bengkel.activity.SewaBengkelActivity
+ com.uas.bengkel.activity.SewaBengkelActivity$1
+com/uas/bengkel/activity/PenyewaActivity.java
+ com.uas.bengkel.activity.PenyewaActivity
+ com.uas.bengkel.activity.PenyewaActivity$1
+ com.uas.bengkel.activity.PenyewaActivity$2
+ com.uas.bengkel.activity.PenyewaActivity$2$1

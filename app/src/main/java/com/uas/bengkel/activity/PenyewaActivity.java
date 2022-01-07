@@ -43,7 +43,7 @@ public class PenyewaActivity extends AppCompatActivity {
         tambah.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent p = new Intent(PenyewaActivity.this, SewaMobilActivity.class);
+                Intent p = new Intent(PenyewaActivity.this, SewaBengkelActivity.class);
                 startActivity(p);
             }
         });

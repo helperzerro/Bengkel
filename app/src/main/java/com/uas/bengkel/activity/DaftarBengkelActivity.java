@@ -19,19 +19,19 @@ import androidx.appcompat.widget.Toolbar;
 import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
-public class DaftarMobilActivity extends AppCompatActivity {
+public class DaftarBengkelActivity extends AppCompatActivity {
 
     String[] daftar;
     ListView ListView1;
     Menu menu;
     protected Cursor cursor;
     DataHelper dbcenter;
-    public static DaftarMobilActivity m;
+    public static DaftarBengkelActivity m;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mobil);
+        setContentView(R.layout.activity_bengkel);
 
         m = this;
         dbcenter = new DataHelper(this);
@@ -43,7 +43,7 @@ public class DaftarMobilActivity extends AppCompatActivity {
 
     private void setupToolbar() {
         Toolbar toolbar = findViewById(R.id.tbInfoMbl);
-        toolbar.setTitle("Informasi Daftar Mobil");
+        toolbar.setTitle("Informasi Daftar Bengkel");
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
@@ -73,7 +73,7 @@ public class DaftarMobilActivity extends AppCompatActivity {
 
             public void onItemClick(AdapterView arg0, View arg1, int arg2, long arg3) {
                 final String selection = daftar[arg2];
-                Intent i = new Intent(DaftarMobilActivity.this, DetailMobilActivity.class);
+                Intent i = new Intent(DaftarBengkelActivity.this, DetailBengkelActivity.class);
                 i.putExtra("merk", selection);
                 startActivity(i);
             }

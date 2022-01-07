@@ -42,18 +42,18 @@
 25-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:17:27-74
 26            </intent-filter>
 27        </activity>
-28        <activity android:name="com.uas.bengkel.activity.DaftarMobilActivity" />
-28-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:9-81
-28-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:19-78
+28        <activity android:name="com.uas.bengkel.activity.DaftarBengkelActivity" />
+28-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:9-83
+28-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:19-80
 29        <activity android:name="com.uas.bengkel.activity.PenyewaActivity" />
 29-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:21:9-77
 29-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:21:19-74
-30        <activity android:name="com.uas.bengkel.activity.SewaMobilActivity" />
-30-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:9-79
-30-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:19-76
-31        <activity android:name="com.uas.bengkel.activity.DetailMobilActivity" />
-31-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:9-81
-31-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:19-78
+30        <activity android:name="com.uas.bengkel.activity.SewaBengkelActivity" />
+30-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:9-81
+30-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:19-78
+31        <activity android:name="com.uas.bengkel.activity.DetailBengkelActivity" />
+31-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:9-83
+31-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:19-80
 32        <activity android:name="com.uas.bengkel.activity.DetailPenyewaActivity" />
 32-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:24:9-83
 32-->D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:24:19-80

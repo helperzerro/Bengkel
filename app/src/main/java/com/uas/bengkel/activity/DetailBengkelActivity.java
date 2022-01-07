@@ -15,7 +15,7 @@ import androidx.appcompat.widget.Toolbar;
 import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
-public class DetailMobilActivity extends AppCompatActivity {
+public class DetailBengkelActivity extends AppCompatActivity {
 
     protected Cursor cursor;
     String sMerk, sHarga, sGambar;
@@ -25,7 +25,7 @@ public class DetailMobilActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail_mobil);
+        setContentView(R.layout.activity_detail_bengkel);
 
         Bundle terima = getIntent().getExtras();
 

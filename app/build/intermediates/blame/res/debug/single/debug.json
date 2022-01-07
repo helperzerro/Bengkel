@@ -140,6 +140,10 @@
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\drawable\\back.png"
     },
     {
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_bengkel.xml.flat",
+        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_detail_bengkel.xml"
+    },
+    {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -624,10 +628,6 @@
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\c37625db86844c7fc254775470b08bda\\transformed\\material-1.0.0\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_mobil.xml.flat",
-        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_detail_mobil.xml"
-    },
-    {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
@@ -870,6 +870,10 @@
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sewa.xml.flat",
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_sewa.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bengkel.xml.flat",
+        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_bengkel.xml"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1262,10 +1266,6 @@
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mobil.xml.flat",
-        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_mobil.xml"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_circle.xml.flat",

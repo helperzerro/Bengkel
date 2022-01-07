@@ -93,22 +93,22 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:17:27-74
-activity#com.uas.bengkel.activity.DaftarMobilActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:9-81
+activity#com.uas.bengkel.activity.DaftarBengkelActivity
+ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:9-83
 	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:19-78
+		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:20:19-80
 activity#com.uas.bengkel.activity.PenyewaActivity
 ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:21:9-77
 	android:name
 		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:21:19-74
-activity#com.uas.bengkel.activity.SewaMobilActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:9-79
+activity#com.uas.bengkel.activity.SewaBengkelActivity
+ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:9-81
 	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:19-76
-activity#com.uas.bengkel.activity.DetailMobilActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:9-81
+		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:19-78
+activity#com.uas.bengkel.activity.DetailBengkelActivity
+ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:9-83
 	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:19-78
+		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:19-80
 activity#com.uas.bengkel.activity.DetailPenyewaActivity
 ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:24:9-83
 	android:name

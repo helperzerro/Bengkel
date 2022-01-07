@@ -5654,11 +5654,11 @@ public final class R {
     public static final int abc_search_view=0x7f0b0019;
     public static final int abc_select_dialog_material=0x7f0b001a;
     public static final int abc_tooltip=0x7f0b001b;
-    public static final int activity_detail_mobil=0x7f0b001c;
-    public static final int activity_detail_penyewa=0x7f0b001d;
-    public static final int activity_login=0x7f0b001e;
-    public static final int activity_main=0x7f0b001f;
-    public static final int activity_mobil=0x7f0b0020;
+    public static final int activity_bengkel=0x7f0b001c;
+    public static final int activity_detail_bengkel=0x7f0b001d;
+    public static final int activity_detail_penyewa=0x7f0b001e;
+    public static final int activity_login=0x7f0b001f;
+    public static final int activity_main=0x7f0b0020;
     public static final int activity_penyewa=0x7f0b0021;
     public static final int activity_register=0x7f0b0022;
     public static final int activity_sewa=0x7f0b0023;
