@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     String hariIni;
     Animation animTv;
 
+    String nama;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
         Button informasi = findViewById(R.id.btn_info_mobil);
         Button sewa = findViewById(R.id.btn_sewa);
+
+        nama = getIntent().getExtras().getString("name");
 
         informasi.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -77,13 +81,13 @@ public class MainActivity extends AppCompatActivity {
         Calendar calendar = Calendar.getInstance();
         int timeOfDay = calendar.get(Calendar.HOUR_OF_DAY);
         if (timeOfDay >= 0 && timeOfDay < 12) {
-            tvMainSalam.setText("Selamat Pagi" + " " + "User");
+            tvMainSalam.setText("Selamat Pagi" + " " + nama);
         } else if (timeOfDay >= 12 && timeOfDay < 15) {
-            tvMainSalam.setText("Selamat Siang" + " " + "User");
+            tvMainSalam.setText("Selamat Siang" + " " + nama);
         } else if (timeOfDay >= 15 && timeOfDay < 18) {
-            tvMainSalam.setText("Selamat Sore" + " " + "User");
+            tvMainSalam.setText("Selamat Sore" + " " + nama);
         } else if (timeOfDay >= 18 && timeOfDay < 24) {
-            tvMainSalam.setText("Selamat Malam" + " " + "User");
+            tvMainSalam.setText("Selamat Malam" + " " + nama);
         }
     }
 
