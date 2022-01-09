@@ -92,6 +92,13 @@
         android:layout_below="@+id/llCurved"
         android:orientation="vertical">
 
+        <Button
+            android:id="@+id/buttonLogout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="Logout" />
+
         <ImageView
             android:id="@+id/icon"
             android:layout_width="130dp"

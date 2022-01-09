@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button informasi = findViewById(R.id.btn_info_mobil);
         Button sewa = findViewById(R.id.btn_sewa);
+        Button logout = findViewById(R.id.buttonLogout);
 
         nama = getIntent().getExtras().getString("name");
 
@@ -47,6 +48,17 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent p = new Intent(MainActivity.this, PenyewaActivity.class);
                 startActivity(p);
+            }
+        });
+
+        // Listener yang bertujuan untuk kembali ke halaman login jika user menekan tombol logout
+        logout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent p = new Intent(MainActivity.this, LoginActivity.class);
+                startActivity(p);
+                // membuat user menjadi tidak dapat kembali ke halaman sebelumnya (MainActivity)
+                finish();
             }
         });
 

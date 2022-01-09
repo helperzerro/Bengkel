@@ -1172,6 +1172,7 @@ id bottom
 id btn_info_mobil
 id btn_sewa
 id buttonLogin
+id buttonLogout
 id buttonPanel
 id buttonRegister
 id center
