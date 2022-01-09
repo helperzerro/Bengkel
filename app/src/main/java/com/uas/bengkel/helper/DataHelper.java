@@ -10,7 +10,7 @@ import java.util.List;
 
 public class DataHelper extends SQLiteOpenHelper {
 
-    private static final String DATABASE_NAME = "rentalmobil.db";
+    private static final String DATABASE_NAME = "bengkel.db";
     private static final int DATABASE_VERSION = 1;
 
     public DataHelper(Context context) {
