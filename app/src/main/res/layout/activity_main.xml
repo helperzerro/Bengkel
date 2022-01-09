@@ -94,10 +94,14 @@
 
         <Button
             android:id="@+id/buttonLogout"
+            style="?android:attr/borderlessButtonStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="right"
-            android:text="Logout" />
+            android:background="@android:color/white"
+            android:shadowColor="#00FFFFFF"
+            android:text="Logout"
+            android:textColor="#003BAF" />
 
         <ImageView
             android:id="@+id/icon"
