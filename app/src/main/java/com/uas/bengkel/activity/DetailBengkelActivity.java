@@ -42,6 +42,7 @@ public class DetailBengkelActivity extends AppCompatActivity {
             sHarga = cursor.getString(1);
         }
 
+        // memasukan nama gambar sesuai merek yang dipilih untuk ditampilkan nantinya
         if (sMerk.equals("Bengkel Mandiri")) {
             sGambar = "mandiri";
         } else if (sMerk.equals("Bengkel Setia")) {
@@ -52,21 +53,30 @@ public class DetailBengkelActivity extends AppCompatActivity {
             sGambar = "sentosa";
         }
 
+        // mencari ImageView dan TextView yang ada dalam file xml
         ImageView ivGambar = findViewById(R.id.ivMobil);
         TextView tvMerk = findViewById(R.id.JMobil);
         TextView tvHarga = findViewById(R.id.JHarga);
 
+        // membuat text dari textview merek menjadi merek yang dipilih
         tvMerk.setText(sMerk);
+        // membuat imageview untuk mendapatkan gambar dari folder drawable sesuai nama yang telah dipilih
         ivGambar.setImageResource(getResources().getIdentifier(sGambar, "drawable", getPackageName()));
+        // men set nilai dari harga berdasarkan harga yang telah ditetapkan kedalam textview harga
         tvHarga.setText("Rp. " + sHarga);
 
+        // memanggil method setupToolbar
         setupToolbar();
 
     }
 
+    // menyiapkan toolbar
     private void setupToolbar() {
+        // mencari toolbar dalam file xml
         Toolbar toolbar = findViewById(R.id.tbDetailMbl);
-        toolbar.setTitle("Detail Mobil");
+        // menset title
+        toolbar.setTitle("Detail Bengkel");
+        // menampilkan toolbar ke getSupportActionBar
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }

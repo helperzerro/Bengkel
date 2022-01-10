@@ -788,16 +788,16 @@
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\055edd41a2360136ad1327f5fc70cb25\\transformed\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_home_curve.png.flat",
+        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_home_curve.png"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xenia.png.flat",
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\drawable\\xenia.png"
     },
     {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg_home_curve.png.flat",
-        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_home_curve.png"
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\055edd41a2360136ad1327f5fc70cb25\\transformed\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_radio_on_mtrl.xml.flat",
@@ -1676,12 +1676,12 @@
         "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
     },
     {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sentosa.png.flat",
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\drawable\\sentosa.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
@@ -1988,12 +1988,12 @@
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\drawable-v24\\logo.png"
     },
     {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sejati.png.flat",
         "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\drawable\\sejati.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
