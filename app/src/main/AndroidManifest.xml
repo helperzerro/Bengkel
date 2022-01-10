@@ -9,21 +9,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name="com.uas.bengkel.activity.LoginActivity">
+        <activity
+            android:name=".EditPenyewaActivity"
+            android:exported="true" />
+        <activity android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.uas.bengkel.activity.DaftarBengkelActivity" />
-        <activity android:name="com.uas.bengkel.activity.PenyewaActivity" />
-        <activity android:name="com.uas.bengkel.activity.SewaBengkelActivity" />
-        <activity android:name="com.uas.bengkel.activity.DetailBengkelActivity" />
-        <activity android:name="com.uas.bengkel.activity.DetailPenyewaActivity" />
-        <activity android:name="com.uas.bengkel.activity.RegisterActivity"/>
-        <activity android:name="com.uas.bengkel.activity.MainActivity"/>
+        <activity android:name=".activity.DaftarBengkelActivity" />
+        <activity android:name=".activity.PenyewaActivity" />
+        <activity android:name=".activity.SewaBengkelActivity" />
+        <activity android:name=".activity.DetailBengkelActivity" />
+        <activity android:name=".activity.DetailPenyewaActivity" />
+        <activity android:name=".activity.RegisterActivity" />
+        <activity android:name=".activity.MainActivity" />
     </application>
 
 </manifest>

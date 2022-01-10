@@ -33,17 +33,23 @@ public class DaftarBengkelActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bengkel);
 
+        // mendeklarasikan class ini untuk menjadi context untuk DataHelper
         m = this;
         dbcenter = new DataHelper(this);
 
+        // memanggil method refreshList dan setupToolbar
         RefreshList();
         setupToolbar();
 
     }
 
+    // menyiapkan toolbar
     private void setupToolbar() {
+        // mencari toolbar dalam file xml
         Toolbar toolbar = findViewById(R.id.tbInfoMbl);
+        // menset title
         toolbar.setTitle("Informasi Daftar Bengkel");
+        // menampilkan toolbar ke getSupportActionBar
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
@@ -58,7 +64,9 @@ public class DaftarBengkelActivity extends AppCompatActivity {
     }
 
     public void RefreshList() {
+        // mendapatkan readable database
         SQLiteDatabase db = dbcenter.getReadableDatabase();
+        // melakukan query
         cursor = db.rawQuery("SELECT * FROM mobil", null);
         daftar = new String[cursor.getCount()];
         cursor.moveToFirst();
@@ -66,13 +74,17 @@ public class DaftarBengkelActivity extends AppCompatActivity {
             cursor.moveToPosition(i);
             daftar[i] = cursor.getString(0);
         }
+        
+        // mencari listview dan menambahkan adapter
         ListView1 = findViewById(R.id.listView1);
         ListView1.setAdapter(new ArrayAdapter(this, layout.simple_list_item_1, daftar));
         ListView1.setSelected(true);
+        // mengatur setiap list jika ditekan
         ListView1.setOnItemClickListener(new OnItemClickListener() {
 
             public void onItemClick(AdapterView arg0, View arg1, int arg2, long arg3) {
                 final String selection = daftar[arg2];
+                // melakukan perpindahan activity menggunakna intent serta memberikan extra bernilai merk
                 Intent i = new Intent(DaftarBengkelActivity.this, DetailBengkelActivity.class);
                 i.putExtra("merk", selection);
                 startActivity(i);

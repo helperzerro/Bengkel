@@ -268,6 +268,11 @@ com/uas/bengkel/helper/DataHelper.java
 com/uas/bengkel/activity/SewaBengkelActivity.java
  com.uas.bengkel.activity.SewaBengkelActivity
  com.uas.bengkel.activity.SewaBengkelActivity$1
+<<<<<<< HEAD
+=======
+com/uas/bengkel/EditPenyewaActivity.java
+ com.uas.bengkel.EditPenyewaActivity
+>>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
 com/uas/bengkel/R.java
  com.uas.bengkel.R
  com.uas.bengkel.R$anim
@@ -321,6 +326,7 @@ com/uas/bengkel/activity/MainActivity.java
  com.uas.bengkel.activity.MainActivity
  com.uas.bengkel.activity.MainActivity$1
  com.uas.bengkel.activity.MainActivity$2
+<<<<<<< HEAD
 androidx/lifecycle/viewmodel/R.java
  androidx.lifecycle.viewmodel.R
 com/uas/bengkel/activity/LoginActivity.java
@@ -331,3 +337,25 @@ com/uas/bengkel/activity/RegisterActivity.java
  com.uas.bengkel.activity.RegisterActivity
  com.uas.bengkel.activity.RegisterActivity$1
  com.uas.bengkel.activity.RegisterActivity$2
+=======
+ com.uas.bengkel.activity.MainActivity$3
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+com/uas/bengkel/activity/PenyewaActivity.java
+ com.uas.bengkel.activity.PenyewaActivity
+ com.uas.bengkel.activity.PenyewaActivity$1
+ com.uas.bengkel.activity.PenyewaActivity$2
+ com.uas.bengkel.activity.PenyewaActivity$2$1
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
+>>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746

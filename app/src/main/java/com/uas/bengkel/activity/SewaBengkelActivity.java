@@ -41,8 +41,10 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sewa);
 
+        // membuat instance dari datahelper
         dbHelper = new DataHelper(this);
 
+        // mencari setiap component yang dibutuhkan
         spinner = findViewById(R.id.spinner);
         selesai = findViewById(R.id.selesaiHitung);
         nama = findViewById(R.id.eTNama);
@@ -55,50 +57,40 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
 
         spinner.setOnItemSelectedListener(this);
 
+        // mejalankan methojd loadSpinnerData
         loadSpinnerData();
 
         selesai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                // mendapatkan text dan mengubahnay menjadi string
                 sNama = nama.getText().toString();
                 sAlamat = alamat.getText().toString();
                 sNo = no_hp.getText().toString();
                 sLama = lama.getText().toString();
+                // jika salah satu kosong, maka akan memberi tahu bahwa nilainya tidak boleh kosong
                 if (sNama.isEmpty() || sAlamat.isEmpty() || sNo.isEmpty() || sLama.isEmpty()) {
                     Toast.makeText(SewaBengkelActivity.this, "(*) tidak boleh kosong", Toast.LENGTH_SHORT).show();
                     return;
                 }
 
+                // mengatur nilai promo
                 if (weekday.isChecked()) {
+                    // promo 10%
                     dPromo = 0.1;
                 } else if (weekend.isChecked()) {
+                    // promo 25%
                     dPromo = 0.25;
                 }
 
-                if (sMerk.equals("Avanza")) {
-                    iHarga = 400000;
-                } else if (sMerk.equals("Xenia")) {
-                    iHarga = 400000;
-                } else if (sMerk.equals("Ertiga")) {
-                    iHarga = 400000;
-                } else if (sMerk.equals("APV")) {
-                    iHarga = 450000;
-                } else if (sMerk.equals("Innova")) {
-                    iHarga = 500000;
-                } else if (sMerk.equals("Xpander")) {
-                    iHarga = 550000;
-                } else if (sMerk.equals("Pregio")) {
-                    iHarga = 550000;
-                } else if (sMerk.equals("Elf")) {
-                    iHarga = 700000;
-                } else if (sMerk.equals("Alphard")) {
-                    iHarga = 1500000;
-                }
-
+                // mengambil nilai lama dan mengubahnya menjadi integer
                 iLama = Integer.parseInt(sLama);
+                // menghitung promo dalam bentuk integer
                 iPromo = (int) (dPromo * 100);
+                // menghitung total harga
                 dTotal = (iHarga * iLama) - (iHarga * iLama * dPromo);
 
+                // membuat writeabledatabase dan memasukan data kedalam database
                 SQLiteDatabase dbH = dbHelper.getWritableDatabase();
                 dbH.execSQL("INSERT INTO penyewa (nama, alamat, no_hp) VALUES ('" +
                         sNama + "','" +
@@ -110,6 +102,7 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
                         iPromo + "','" +
                         iLama + "','" +
                         dTotal + "');");
+                // refresh list
                 PenyewaActivity.m.RefreshList();
                 finish();
 
@@ -119,10 +112,13 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
         setupToolbar();
 
     }
-
+    // menyiapkan toolbar
     private void setupToolbar() {
+        // mencari toolbar dalam file xml
         Toolbar toolbar = findViewById(R.id.tbSewaMobl);
+        // menset title
         toolbar.setTitle("Sewa Bengkel");
+        // menampilkan toolbar ke getSupportActionBar
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
@@ -137,9 +133,11 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
     }
 
     private void loadSpinnerData() {
+        // membuat instance dari datahelper dan mendapatkan semau kategori
         DataHelper db = new DataHelper(getApplicationContext());
         List<String> categories = db.getAllCategories();
 
+        // mengatur array adapter
         ArrayAdapter<String> dataAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, categories);
         dataAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(dataAdapter);

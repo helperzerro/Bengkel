@@ -28,11 +28,16 @@ public class DetailPenyewaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail_penyewa);
 
+        // membuat instance dari datahelper
         dbHelper = new DataHelper(this);
 
+        // mendapatkan readabledatabase
         SQLiteDatabase db = dbHelper.getReadableDatabase();
+        // melakukan query
         cursor = db.rawQuery("select * from penyewa, mobil, sewa where penyewa.nama = sewa.nama AND mobil.merk = sewa.merk AND penyewa.nama = '" + getIntent().getStringExtra("nama") + "'", null);
+        // memindahkan cursor ke hasil pertama
         cursor.moveToFirst();
+        // menerima dan mamsukan data kedalam variabel yang sudah disediakan jika cursor berisi nilai
         if (cursor.getCount() > 0) {
             cursor.moveToPosition(0);
             sNama = cursor.getString(0);
@@ -45,37 +50,46 @@ public class DetailPenyewaActivity extends AppCompatActivity {
             dTotal = cursor.getDouble(9);
         }
 
+        // mencari textview nama, alamat, hp
         TextView tvNama = findViewById(R.id.HNama);
         TextView tvAlamat = findViewById(R.id.HAlamat);
         TextView tvHP = findViewById(R.id.HTelp);
 
+        // mencari textview merk, harga
         TextView tvMerk = findViewById(R.id.HMerk);
         TextView tvHarga = findViewById(R.id.HHarga);
 
+        // mencari textview lama, promo, total
         TextView tvLama = findViewById(R.id.HLamaSewa);
         TextView tvPromo = findViewById(R.id.HPromo);
         TextView tvTotal = findViewById(R.id.HTotal);
 
+        // mengatur text nama, alamat, hp
         tvNama.setText("     " + sNama);
         tvAlamat.setText("     " + sAlamat);
         tvHP.setText("     " + sHP);
 
+        // mengatur text merk, harga
         tvMerk.setText("     " + sMerk);
         tvHarga.setText("     Rp. " + sHarga);
 
+        // mengatur text lama hari, promo
         tvLama.setText("     " + iLama + " hari");
         tvPromo.setText("     " + iPromo + "%");
+
+        // mengatur harga total setelah dihitung sesuai lama dan promo yang ada
         iTotal = Integer.parseInt(sHarga) - (Integer.parseInt(sHarga) * iLama ) * iPromo / 100;
-//        iTotal = (int) dTotal;
+        // menampilkan harga total yang telah dihitung
         tvTotal.setText("     Rp. " + iTotal);
-
         setupToolbar();
-
     }
 
     private void setupToolbar() {
+        // mencari toolbar dari xml
         Toolbar toolbar = findViewById(R.id.tbDetailPenyewa);
+        // mengatur title dari toolbar
         toolbar.setTitle("Detail PenyewaActivity");
+        // menampilkan toolbar ke getSupportActionBar
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
