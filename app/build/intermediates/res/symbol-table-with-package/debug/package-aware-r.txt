@@ -1172,6 +1172,7 @@ id bottom
 id btn_info_mobil
 id btn_sewa
 id buttonLogin
+id buttonLogout
 id buttonPanel
 id buttonRegister
 id center
@@ -1445,6 +1446,7 @@ layout abc_tooltip
 layout activity_bengkel
 layout activity_detail_bengkel
 layout activity_detail_penyewa
+layout activity_edit_penyewa
 layout activity_login
 layout activity_main
 layout activity_penyewa
