@@ -256,6 +256,9 @@ androidx/recyclerview/R.java
  androidx.recyclerview.R$styleable
 com/uas/bengkel/helper/DataHelper.java
  com.uas.bengkel.helper.DataHelper
+com/uas/bengkel/activity/SewaBengkelActivity.java
+ com.uas.bengkel.activity.SewaBengkelActivity
+ com.uas.bengkel.activity.SewaBengkelActivity$1
 com/uas/bengkel/R.java
  com.uas.bengkel.R
  com.uas.bengkel.R$anim
@@ -303,6 +306,19 @@ androidx/localbroadcastmanager/R.java
  androidx.localbroadcastmanager.R
 com/uas/bengkel/activity/DetailBengkelActivity.java
  com.uas.bengkel.activity.DetailBengkelActivity
+com/uas/bengkel/helper/DBHelper.java
+ com.uas.bengkel.helper.DBHelper
+com/uas/bengkel/activity/MainActivity.java
+ com.uas.bengkel.activity.MainActivity
+ com.uas.bengkel.activity.MainActivity$1
+ com.uas.bengkel.activity.MainActivity$2
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+com/uas/bengkel/activity/PenyewaActivity.java
+ com.uas.bengkel.activity.PenyewaActivity
+ com.uas.bengkel.activity.PenyewaActivity$1
+ com.uas.bengkel.activity.PenyewaActivity$2
+ com.uas.bengkel.activity.PenyewaActivity$2$1
 androidx/vectordrawable/animated/R.java
  androidx.vectordrawable.animated.R
  androidx.vectordrawable.animated.R$attr
@@ -315,19 +331,3 @@ androidx/vectordrawable/animated/R.java
  androidx.vectordrawable.animated.R$string
  androidx.vectordrawable.animated.R$style
  androidx.vectordrawable.animated.R$styleable
-com/uas/bengkel/helper/DBHelper.java
- com.uas.bengkel.helper.DBHelper
-androidx/lifecycle/viewmodel/R.java
- androidx.lifecycle.viewmodel.R
-com/uas/bengkel/activity/MainActivity.java
- com.uas.bengkel.activity.MainActivity
- com.uas.bengkel.activity.MainActivity$1
- com.uas.bengkel.activity.MainActivity$2
-com/uas/bengkel/activity/SewaBengkelActivity.java
- com.uas.bengkel.activity.SewaBengkelActivity
- com.uas.bengkel.activity.SewaBengkelActivity$1
-com/uas/bengkel/activity/PenyewaActivity.java
- com.uas.bengkel.activity.PenyewaActivity
- com.uas.bengkel.activity.PenyewaActivity$1
- com.uas.bengkel.activity.PenyewaActivity$2
- com.uas.bengkel.activity.PenyewaActivity$2$1
