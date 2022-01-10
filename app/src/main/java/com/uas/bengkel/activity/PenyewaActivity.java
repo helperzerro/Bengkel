@@ -24,7 +24,7 @@ import com.uas.bengkel.helper.DataHelper;
 import static android.R.layout.*;
 
 public class PenyewaActivity extends AppCompatActivity {
-
+    // mendeklarasi variabel
     String[] daftar;
     int[] id;
     ListView ListView1;

@@ -1034,6 +1034,7 @@ drawable back
 drawable background_item
 drawable background_textview
 drawable bengkel
+drawable bengkel_baru
 drawable bg_home_curve
 drawable bg_home_wave
 drawable btn_checkbox_checked_mtrl
@@ -1090,6 +1091,7 @@ id ALT
 id CTRL
 id FUNCTION
 id GHarga
+id GHarga1
 id HAlamat
 id HHarga
 id HLamaSewa
@@ -1099,9 +1101,12 @@ id HPromo
 id HTelp
 id HTotal
 id JHarga
+id JHarga2
 id JMobil
 id ListGroup
 id META
+id NBengkel
+id NNama1
 id Rconfirmpassword
 id Rpassword
 id Rusername
@@ -1241,6 +1246,7 @@ id invisible
 id italic
 id item_touch_helper_previous_elevation
 id ivMobil
+id ivMobil1
 id labeled
 id largeLabel
 id left
@@ -1248,6 +1254,7 @@ id line1
 id line3
 id listMode
 id listView1
+id listView11
 id list_item
 id llCurved
 id masked
@@ -1307,6 +1314,7 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selesaiHitung
+id selesaiHitung1
 id shortcut
 id showCustom
 id showHome
@@ -1339,9 +1347,11 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tambahPenyewa
+id tambahPenyewa1
 id tbDetailMbl
 id tbDetailPenyewa
 id tbInfoMbl
+id tbInfoMbl1
 id tbPenyewa
 id tbSewaMobl
 id text
@@ -1444,9 +1454,10 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_bengkel
+layout activity_bengkel_admin
+layout activity_daftar_bengkel_baru
 layout activity_detail_bengkel
 layout activity_detail_penyewa
-layout activity_edit_penyewa
 layout activity_login
 layout activity_main
 layout activity_penyewa

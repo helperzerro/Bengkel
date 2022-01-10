@@ -9,18 +9,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataHelper extends SQLiteOpenHelper {
-
+    // disini kami mendekalrasi beberapa sebagai kunci dasar membuat database, terdiri dari nama databasenya serta versi-nya
     private static final String DATABASE_NAME = "bengkel.db";
     private static final int DATABASE_VERSION = 1;
 
     public DataHelper(Context context) {
-        super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        super(context, DATABASE_NAME, null, DATABASE_VERSION); //create database
 
     }
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-
+        // membuat tabel beberapa tabel didalam database, seperti tabel penyewa, mobil, sewa
         db.execSQL("PRAGMA foreign_keys=ON");
         db.execSQL("create table penyewa (" +
                 "nama text," +
@@ -46,6 +46,7 @@ public class DataHelper extends SQLiteOpenHelper {
                 ");" +
                 "");
 
+        // disini langsung di inisialisasi beberapa data ke tabel mobil
         db.execSQL("insert into mobil values (" +
                 "'Bengkel Mandiri'," +
                 "50000" +
@@ -68,22 +69,23 @@ public class DataHelper extends SQLiteOpenHelper {
                 "");
     }
 
+    // function ini digunakan untuk mengambil data mobil
     public List<String> getAllCategories() {
-        List<String> categories = new ArrayList<String>();
-        String selectQuery = "select * from mobil";
-        SQLiteDatabase db = this.getReadableDatabase();
-        Cursor cursor = db.rawQuery(selectQuery, null);
+        List<String> categories = new ArrayList<String>(); // menbuat variabel array dulu
+        String selectQuery = "select * from mobil"; // membuat Querynya
+        SQLiteDatabase db = this.getReadableDatabase(); // menghubungkannya ke data
+        Cursor cursor = db.rawQuery(selectQuery, null);  // mengambil index item, ketika item di tekan
 
         if (cursor.moveToFirst()) {
-            do {
+            do { //
                 categories.add(cursor.getString(0));
             } while (cursor.moveToNext());
         }
 
-        cursor.close();
-        db.close();
+        cursor.close(); // menonaktifkan cursor
+        db.close();  // menonaktifkan database
 
-        return categories;
+        return categories; // mengembalikan data
     }
 
     @Override

@@ -19,9 +19,6 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.uas.bengkel.EditPenyewaActivity"
-            android:exported="true" />
         <activity android:name="com.uas.bengkel.activity.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,6 +26,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.uas.bengkel.activity.DaftarBengkelAdmin" />
+        <activity android:name="com.uas.bengkel.activity.DetailBengkelAdmin" />
         <activity android:name="com.uas.bengkel.activity.DaftarBengkelActivity" />
         <activity android:name="com.uas.bengkel.activity.PenyewaActivity" />
         <activity android:name="com.uas.bengkel.activity.SewaBengkelActivity" />

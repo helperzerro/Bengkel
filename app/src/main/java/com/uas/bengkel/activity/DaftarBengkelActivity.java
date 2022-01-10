@@ -20,7 +20,7 @@ import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
 public class DaftarBengkelActivity extends AppCompatActivity {
-
+// mendeklarasi beberapa variabel untuk mengakses activity_Bengkel
     String[] daftar;
     ListView ListView1;
     Menu menu;

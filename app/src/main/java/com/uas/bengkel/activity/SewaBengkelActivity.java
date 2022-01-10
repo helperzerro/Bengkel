@@ -22,7 +22,7 @@ import com.uas.bengkel.helper.DataHelper;
 import java.util.List;
 
 public class SewaBengkelActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
-
+    // seperti biasanya pertama kami mendeklarasi beberapa variabel untuk dapat digunakan nantinya
     EditText nama, alamat, no_hp, lama;
     RadioGroup promo;
     RadioButton weekday, weekend;
@@ -34,7 +34,7 @@ public class SewaBengkelActivity extends AppCompatActivity implements AdapterVie
     double dTotal;
 
     private Spinner spinner;
-    DataHelper dbHelper;
+    DataHelper dbHelper; // ini juga variabelnya nanti digunakan untuk menghubungkannya ke code untuk mengakses data didalam SQLiteDatabase
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

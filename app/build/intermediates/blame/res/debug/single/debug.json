@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\c37625db86844c7fc254775470b08bda\\transformed\\material-1.0.0\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sejati.jpeg.flat",
         "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\src\\main\\res\\drawable\\sejati.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\c37625db86844c7fc254775470b08bda\\transformed\\material-1.0.0\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\c37625db86844c7fc254775470b08bda\\transformed\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -236,12 +236,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -328,16 +328,16 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -412,12 +412,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_home_wave.png.flat",
-        "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_home_wave.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_home_wave.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bg_home_curve.png.flat",
@@ -924,6 +924,10 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
     },
     {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bengkel_admin.xml.flat",
+        "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\src\\main\\res\\layout\\activity_bengkel_admin.xml"
+    },
+    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\color\\abc_tint_switch_track.xml"
     },
@@ -1264,6 +1268,10 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bengkel_baru.png.flat",
+        "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\src\\main\\res\\drawable\\bengkel_baru.png"
+    },
+    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -1548,17 +1556,8 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-=======
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_penyewa.xml.flat",
-        "source": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\src\\main\\res\\layout\\activity_edit_penyewa.xml"
-    },
-    {
-        "merged": "D:\\Projects\\Android Native\\Clone Github Wilmar\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
-        "source": "C:\\Users\\Deven Valisten\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable\\abc_textfield_search_material.xml"
->>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1669,12 +1668,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material_anim.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable\\abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
@@ -1757,12 +1756,12 @@
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\055edd41a2360136ad1327f5fc70cb25\\transformed\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\c37625db86844c7fc254775470b08bda\\transformed\\material-1.0.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -2115,6 +2114,10 @@
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
         "source": "C:\\Users\\Gunara\\.gradle\\caches\\transforms-3\\a61c05d5a6c1f2006f9ece34e758f71d\\transformed\\appcompat-1.1.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_daftar_bengkel_baru.xml.flat",
+        "source": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\src\\main\\res\\layout\\activity_daftar_bengkel_baru.xml"
     },
     {
         "merged": "C:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_close_circle.xml.flat",

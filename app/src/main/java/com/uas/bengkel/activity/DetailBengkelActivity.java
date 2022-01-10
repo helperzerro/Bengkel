@@ -16,7 +16,7 @@ import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
 public class DetailBengkelActivity extends AppCompatActivity {
-
+    // mendeklarasi beberapa variabel untuk mengakses beberapa activity_detail_bengkel
     protected Cursor cursor;
     String sMerk, sHarga, sGambar;
     DataHelper dbHelper;
@@ -51,6 +51,8 @@ public class DetailBengkelActivity extends AppCompatActivity {
             sGambar = "sejati";
         } else if (sMerk.equals("Bengkel Sentosa")) {
             sGambar = "sentosa";
+        }else{
+            sGambar = "bengkel_baru";
         }
 
         // mencari ImageView dan TextView yang ada dalam file xml

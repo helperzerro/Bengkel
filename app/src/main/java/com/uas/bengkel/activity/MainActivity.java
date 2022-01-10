@@ -17,11 +17,10 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
-
+    // mendeklarasi beberapa variabel untuk mengakses activity_main
     TextView tvToday, tvMainSalam;
     String hariIni;
     Animation animTv;
-
     String nama;
 
     @Override
@@ -41,8 +40,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // memindahkan activity dari MainAcitivity ke DaftarBengkelAcivity
-                Intent i = new Intent(MainActivity.this, DaftarBengkelActivity.class);
-                startActivity(i);
+                if(nama.equals("admin")){
+                    Intent i = new Intent(MainActivity.this, DaftarBengkelAdmin.class);
+                    startActivity(i);
+                }else{
+                    Intent i = new Intent(MainActivity.this, DaftarBengkelActivity.class);
+                    startActivity(i);
+                }
             }
         });
 

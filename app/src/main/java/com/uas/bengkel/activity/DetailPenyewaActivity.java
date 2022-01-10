@@ -14,7 +14,7 @@ import com.uas.bengkel.R;
 import com.uas.bengkel.helper.DataHelper;
 
 public class DetailPenyewaActivity extends AppCompatActivity {
-
+    // mendeklarasi beberapa variabel untuk digunakan nantinya / mengakses activity_detail_Penyewa
     String sNama, sAlamat, sHP, sMerk, sHarga;
     int iLama, iPromo, iTotal;
     double dTotal;
@@ -37,7 +37,7 @@ public class DetailPenyewaActivity extends AppCompatActivity {
         cursor = db.rawQuery("select * from penyewa, mobil, sewa where penyewa.nama = sewa.nama AND mobil.merk = sewa.merk AND penyewa.nama = '" + getIntent().getStringExtra("nama") + "'", null);
         // memindahkan cursor ke hasil pertama
         cursor.moveToFirst();
-        // menerima dan mamsukan data kedalam variabel yang sudah disediakan jika cursor berisi nilai
+        // menerima dan mamasukan data kedalam variabel yang sudah disediakan jika cursor berisi nilai
         if (cursor.getCount() > 0) {
             cursor.moveToPosition(0);
             sNama = cursor.getString(0);
@@ -88,7 +88,7 @@ public class DetailPenyewaActivity extends AppCompatActivity {
         // mencari toolbar dari xml
         Toolbar toolbar = findViewById(R.id.tbDetailPenyewa);
         // mengatur title dari toolbar
-        toolbar.setTitle("Detail PenyewaActivity");
+        toolbar.setTitle("Detail Penyewa Activity");
         // menampilkan toolbar ke getSupportActionBar
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);

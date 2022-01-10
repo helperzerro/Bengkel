@@ -1,10 +1,9 @@
 -- Merging decision tree log ---
 manifest
-<<<<<<< HEAD
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\a61c05d5a6c1f2006f9ece34e758f71d\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gunara\.gradle\caches\transforms-3\a098509b830588fe98fc24dd01664a32\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -39,79 +38,25 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Gunara\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\76213e13675280e9a4d8de2b9a380333\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\b6d1d46d40bbd1382a6bc63b344a3947\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\4d735b260575523f8ad7fb0594924755\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
-=======
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\a61c05d5a6c1f2006f9ece34e758f71d\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Deven Valisten\.gradle\caches\transforms-3\a098509b830588fe98fc24dd01664a32\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\6202755ffe933f1bdbfb1dcebf7978f4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\8261136a3241a2f793f850fbd8c79952\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\bb635a71b1eda3f019f7b3bf2574a88a\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\76f901a61eb1bdbfccaf8fc6afbf5e13\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\cdcc0a917f1013810e5abd5746bb1605\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\3d89779d6442afc592966f7f73a7f958\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\bfbaa738b0c9f2ea36f9868566e2364c\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\42522091c43ff505804d8aee8088189b\transformed\transition-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\714713f3642db6c8aff8be942830e5f4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\eb815222ac21ef5db2b5a05b3e085422\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\e645eb5c304b1c32e3bdcc4f31c09af2\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\beae7d8160c6a90de807d5bc64b7c8da\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\283acfe9f8de41975fcc9432e01451b5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\d455545b3cae3e5c31da7ea9b1972299\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\bd36cdc83f7a28819123bb41f1591487\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\b93d29ac9bc4409b1daa0837327bb86f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\5b5e358781ddbed3b3051e5992c747e4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\8bbe0b24e100a8d3455948ba6615abc5\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\c8c30e4acaf58dbf21a1a97ba8c7f599\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\99c656fe39ad5632d10f3f4a94ec0809\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\b33b49592d9fdd41273cc5d1275c1b06\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\47d5e91de839fc8a3f6f639427d21130\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\243531241f92e1f379a68748c2de196c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\32ad5c4ffedcab82ac177ddacc6ed66d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\f945d3dac78808c326abfa0e1d9fec48\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\2370fca44d9f33a85855c174204fc099\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\966a382fa7e8e153c23015458f1f1e83\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\76213e13675280e9a4d8de2b9a380333\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\b6d1d46d40bbd1382a6bc63b344a3947\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\4d735b260575523f8ad7fb0594924755\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
->>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
 	android:versionName
-<<<<<<< HEAD
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml
-=======
-		INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml
->>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
 	xmlns:android
 		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:2:11-69
 application
-<<<<<<< HEAD
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Gunara\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Gunara\.gradle\caches\transforms-3\a098509b830588fe98fc24dd01664a32\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -120,17 +65,6 @@ MERGED from [androidx.core:core:1.1.0] C:\Users\Gunara\.gradle\caches\transforms
 MERGED from [androidx.core:core:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\99c656fe39ad5632d10f3f4a94ec0809\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\99c656fe39ad5632d10f3f4a94ec0809\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-=======
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:5:5-29:19
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\c37625db86844c7fc254775470b08bda\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Deven Valisten\.gradle\caches\transforms-3\a098509b830588fe98fc24dd01664a32\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Deven Valisten\.gradle\caches\transforms-3\a098509b830588fe98fc24dd01664a32\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\99c656fe39ad5632d10f3f4a94ec0809\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Deven Valisten\.gradle\caches\transforms-3\99c656fe39ad5632d10f3f4a94ec0809\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
->>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Gunara\.gradle\caches\transforms-3\055edd41a2360136ad1327f5fc70cb25\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -144,101 +78,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\De
 	android:allowBackup
 		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-<<<<<<< HEAD
 		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.uas.bengkel.activity.LoginActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:13:19-72
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:12:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.uas.bengkel.activity.DaftarBengkelAdmin
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:19:9-65
+	android:name
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:19:19-62
+activity#com.uas.bengkel.activity.DetailBengkelAdmin
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:9-65
+	android:name
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:19-62
 activity#com.uas.bengkel.activity.DaftarBengkelActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:9-83
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:9-68
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:20:19-80
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:19-65
 activity#com.uas.bengkel.activity.PenyewaActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:9-77
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:9-62
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:21:19-74
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:19-59
 activity#com.uas.bengkel.activity.SewaBengkelActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:9-81
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:9-66
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:22:19-78
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:19-63
 activity#com.uas.bengkel.activity.DetailBengkelActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:9-83
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:9-68
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:23:19-80
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:19-65
 activity#com.uas.bengkel.activity.DetailPenyewaActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:9-83
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:9-68
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:24:19-80
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:19-65
 activity#com.uas.bengkel.activity.RegisterActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:9-77
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:9-63
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:25:19-75
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:19-60
 activity#com.uas.bengkel.activity.MainActivity
-ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:9-73
+ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:27:9-59
 	android:name
-		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:26:19-71
-=======
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.uas.bengkel.EditPenyewaActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:12:9-14:39
-	android:exported
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:14:13-36
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:13:13-48
-activity#com.uas.bengkel.activity.LoginActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:15:9-21:20
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:15:19-57
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:16:13-20:29
-action#android.intent.action.MAIN
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:17:17-69
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:17:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:19:17-77
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:19:27-74
-activity#com.uas.bengkel.activity.DaftarBengkelActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:9-68
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:22:19-65
-activity#com.uas.bengkel.activity.PenyewaActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:9-62
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:23:19-59
-activity#com.uas.bengkel.activity.SewaBengkelActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:24:9-66
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:24:19-63
-activity#com.uas.bengkel.activity.DetailBengkelActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:25:9-68
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:25:19-65
-activity#com.uas.bengkel.activity.DetailPenyewaActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:26:9-68
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:26:19-65
-activity#com.uas.bengkel.activity.RegisterActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:27:9-63
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:27:19-60
-activity#com.uas.bengkel.activity.MainActivity
-ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:28:9-59
-	android:name
-		ADDED from D:\Projects\Android Native\Clone Github Wilmar\Bengkel\app\src\main\AndroidManifest.xml:28:19-56
->>>>>>> 4cffc7a7925a5b4fb40968b4b4db1246080ed746
+		ADDED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml:27:19-56
 uses-sdk
 INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Gunara\Downloads\Semester 5\Pemograman Mobile\UAS\Bengkel\app\src\main\AndroidManifest.xml

@@ -9,9 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".EditPenyewaActivity"
-            android:exported="true" />
         <activity android:name=".activity.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.DaftarBengkelAdmin" />
+        <activity android:name=".activity.DetailBengkelAdmin" />
         <activity android:name=".activity.DaftarBengkelActivity" />
         <activity android:name=".activity.PenyewaActivity" />
         <activity android:name=".activity.SewaBengkelActivity" />
