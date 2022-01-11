@@ -1025,9 +1025,6 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable alphard
-drawable apv
-drawable avanza
 drawable avd_hide_password
 drawable avd_show_password
 drawable back
@@ -1052,8 +1049,6 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable elf
-drawable ertiga
 drawable ic_date
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1061,7 +1056,6 @@ drawable ic_mobil_home
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
-drawable innova
 drawable logo
 drawable mandiri
 drawable mtrl_snackbar_background
@@ -1079,14 +1073,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable pregio
 drawable sejati
 drawable sentosa
 drawable setia
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-drawable xenia
-drawable xpander
 id ALT
 id CTRL
 id FUNCTION

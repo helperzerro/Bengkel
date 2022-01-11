@@ -62,7 +62,7 @@ public class DetailBengkelAdmin extends AppCompatActivity {
                         sNama + "','" +
                         sHarga2 + "');");
                 // refresh list
-                DaftarBengkelActivity.m.RefreshList();
+                DaftarBengkelAdmin.m.RefreshList();
                 finish();
 
             }

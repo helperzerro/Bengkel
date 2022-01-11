@@ -1,4 +1,4 @@
-#Tue Jan 11 00:09:01 ICT 2022
+#Tue Jan 11 15:47:53 ICT 2022
 base.1=C\:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\Gunara\\Downloads\\Semester 5\\Pemograman Mobile\\UAS\\Bengkel\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex

@@ -62,7 +62,7 @@
                     android:id="@+id/ivMobil"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/innova" />
+                    android:src="@drawable/bengkel_baru" />
 
                 <View
                     android:layout_width="match_parent"
